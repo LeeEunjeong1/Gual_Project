@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196158843844",
+    "project_id": "project-test-gual",
+    "storage_bucket": "project-test-gual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196158843844:android:f9e0bdbd1beb85ad499291",
+        "android_client_info": {
+          "package_name": "com.example.gual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196158843844-l1aomr379lrhieb8529e6e454jrmoboo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gual",
+            "certificate_hash": "e1fc804e92d7db606a9f6818fe7e336b13cdccf0"
+          }
+        },
+        {
+          "client_id": "196158843844-o97qtmd8npqe1dlmovcuigg80rio659s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5cNYqJgT5c6CFsRhpRZLG92_P3xxddGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196158843844-o97qtmd8npqe1dlmovcuigg80rio659s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
